@@ -1,2 +1,2 @@
 #!/bin/sh
-python program.py
+python2.7 program.py
